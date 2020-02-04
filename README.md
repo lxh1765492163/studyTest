@@ -102,5 +102,4 @@ npm install babel-eslint --save
 然后在 .eslintrc.js 中加入代码解析"parser": "babel-eslint" 
 
 
-### css|scss的语法检测使用stylelint
 
