@@ -1,4 +1,5 @@
-import './scss/index.scss';
+import './scss/index.scss'
 
-const a = 1;
-console.log(a);
+const a = 1
+
+console.log(a)
