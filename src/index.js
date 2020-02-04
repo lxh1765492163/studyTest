@@ -1,5 +1,4 @@
-console.log('执行了检测-----------4');
+import './scss/index.scss';
 
-const bb = { a: '2', dasdasd: '21312313', adasd: 'asdasd', asd: 'asdsada' };
-
-console.log('执行了检测------------2', bb);
+const a = 1;
+console.log(a);
