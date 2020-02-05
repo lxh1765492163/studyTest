@@ -12,7 +12,7 @@ git  hooks的作用就是用来做代码提交时候的一道检查
 
 代码格式校验（单行长度， tab长度， 空格）团队代码风格统一，
 
-prettier支持大部分前端语言的规范以及格式修复，  针对js，css, scss等前端很多（忘记那个博客上面这样说的）
+prettier目前支持前端大部分的语言处理 ，包括js ts css scss less jsx vue json md等 , 几乎用一个工具搞定所有代码的格式问题
 
 
 
